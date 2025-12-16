@@ -8,8 +8,8 @@ function App() {
 
   return(
     <>
-      <div>
-      my first application
+      <div style={{color:"blue"}}>
+     <h1> MY FIRST APPLICATION</h1>
       </div>
     </>
   )
