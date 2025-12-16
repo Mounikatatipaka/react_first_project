@@ -8,8 +8,10 @@ function App() {
 
   return(
     <>
-      <div style={{color:"blue"}}>
-     <h1> MY FIRST APPLICATION</h1>
+      <div style={{color:"red"}}>
+     <h1> MY FIRST APPLICATION
+          React is used to build UI
+     </h1>
       </div>
     </>
   )
